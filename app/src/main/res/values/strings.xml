@@ -1,0 +1,51 @@
+
+<resources>
+    <string name="app_name">GraWisielec</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="countries_array">
+        <item>Albania</item>
+        <item>Andora</item>
+        <item>Austria</item>
+        <item>Belgia</item>
+        <item>Bosnia i Hercegowina</item>
+        <item>Chorwacja</item>
+        <item>Czarnogora</item>
+        <item>Bialorus</item>
+        <item>Czechy</item>
+        <item>Dania</item>
+        <item>Estonia</item>
+        <item>Finlandia</item>
+        <item>Francja</item>
+        <item>Grecja</item>
+        <item>Hiszpania</item>
+        <item>Holandia</item>
+        <item>Irlandia</item>
+        <item>Islandia</item>
+        <item>Liechtenstein</item>
+        <item>Litwa</item>
+        <item>Luksemburg</item>
+        <item>Lotwa</item>
+        <item>Macedonia</item>
+        <item>Malta</item>
+        <item>Moldawia</item>
+        <item>Monako</item>
+        <item>Niemcy</item>
+        <item>Norwegia</item>
+        <item>Polska</item>
+        <item>Portugalia</item>
+        <item>Rosja</item>
+        <item>Rumunia</item>
+        <item>San Marino</item>
+        <item>Serbia</item>
+        <item>Slowacja</item>
+        <item>Slowenia</item>
+        <item>Szwajcaria</item>
+        <item>Szwecja</item>
+        <item>Turcja</item>
+        <item>Ukraina</item>
+        <item>Watykan</item>
+        <item>Wegry</item>
+        <item>Wielka Brytania</item>
+        <item>Wlochy</item>
+    </string-array>
+</resources>
